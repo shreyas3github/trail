@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hydraulic Cylinder",
+      "type": "Double Acting",
+      "pressure": "3000 PSI",
+      "stock": 45,
+      "price": 450
+    },
+    {
+      "id": 2,
+      "name": "Gear Pump",
+      "type": "Fixed Displacement",
+      "pressure": "2500 PSI",
+      "stock": 32,
+      "price": 1200
+    },
+    {
+      "id": 3,
+      "name": "Hydraulic Hose",
+      "type": "High Pressure",
+      "pressure": "5000 PSI",
+      "stock": 150,
+      "price": 85
+    }
+  ]
+}
